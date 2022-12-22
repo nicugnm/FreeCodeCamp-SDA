@@ -1,3 +1,5 @@
+package arrays
+
 import java.lang.Exception
 import java.util.stream.IntStream.range
 

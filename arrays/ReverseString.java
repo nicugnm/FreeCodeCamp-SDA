@@ -1,3 +1,5 @@
+package arrays;
+
 public class ReverseString {
     private static void reversedString(String str) {
         var list = str.toCharArray();
